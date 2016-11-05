@@ -2,7 +2,7 @@
 During a programming contest for students, each contestant had to solve 3 problems (named P1, P2
 and P3). Afterwards, an evaluation committee graded the solution to each of the problems solved by
 the contestants using integers between 0 and 10. The committee needs a program that will allow
-managing the list of scores and establishing the winners. This program will implement the
+managing the list of scores and establishing the winners. This application will implement the
 following functionalities (each functionality is exemplified):
 
 1. Add the result of a new participant.
@@ -57,3 +57,4 @@ remove > 89 –set the scores of participants having an average score > 89 to 0.
 undo – the last operation that has modified program data will be reversed. The user has to be
 able to undo all operations performed since program start by repeatedly calling this function.
 
+Note: Tis application does not focus on OOP (Object-Oriented-Programming).
