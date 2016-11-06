@@ -57,4 +57,4 @@ remove > 89 –set the scores of participants having an average score > 89 to 0.
 undo – the last operation that has modified program data will be reversed. The user has to be
 able to undo all operations performed since program start by repeatedly calling this function.
 
-Note: Tis application does not focus on OOP (Object-Oriented-Programming).
+Note: This application does not focus on OOP (Object-Oriented-Programming).
